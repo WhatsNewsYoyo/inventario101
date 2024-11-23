@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "xstring": "cpp",
+        "xhash": "cpp",
+        "xlocale": "cpp",
+        "xlocnum": "cpp"
+    }
+}
